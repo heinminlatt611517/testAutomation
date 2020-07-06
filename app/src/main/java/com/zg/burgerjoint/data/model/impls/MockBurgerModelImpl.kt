@@ -24,4 +24,8 @@ object MockBurgerModelImpl : BurgerModel {
     override fun addItemToCart(burger: BurgerVO) {
         TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
+
+    private fun aa(){
+
+    }
 }
